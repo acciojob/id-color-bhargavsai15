@@ -2,14 +2,45 @@
 #yellow{
 	background-color:yellow;
 	border-top:3px;
+	border-left:3px;
+	border-bottom:3px;
+	border-right:3px;
 	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-color:green;
+	border-left-color:green;
 	border-top-color:green;
+	border-bottom-color:green;
 }
 #green{
 	background-color:green;
-	border:1px solid yellow;
+	border-top:3px;
+	border-left:3px;
+	border-bottom:3px;
+	border-right:3px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-color:yellow;
+	border-left-color:yellow;
+	border-top-color:yellow;
+	border-bottom-color:yellow;
 }
 #red{
 	background-color:red;
-	border:1px solid black;
+	border-top:3px;
+	border-left:3px;
+	border-bottom:3px;
+	border-right:3px;
+	border-top-style:solid;
+	border-right-style:solid;
+	border-bottom-style:solid;
+	border-left-style:solid;
+	border-right-color:black;
+	border-left-color:black;
+	border-top-color:black;
+	border-bottom-color:b;ack;
 }
